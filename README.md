@@ -10,4 +10,4 @@ In Part II, I include a screenshot of the combined Heatmap-Hotel Info Map create
 
 All plots contain proper labeling, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
 
-For the Humidity heat map, I did set the max_intensity to the highest humidity found in the data set.
+For the Humidity heat map, I set the max_intensity to the highest humidity found in the data set.
